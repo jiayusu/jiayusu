@@ -8,9 +8,3 @@ About Me
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiayusu&theme=merko" alt="Activity Graph" />
 </div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jiayusu&theme=default" alt="GitHub Streak" />
-  </a>
-</div>
