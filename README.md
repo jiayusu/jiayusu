@@ -7,5 +7,5 @@
 📫 How to reach me: bbbbbbbb@bupt.edu.cn
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiayusu&theme=merko" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiayusu&theme=github" alt="Activity Graph" />
 </div>
