@@ -1,11 +1,76 @@
-## About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&section=header&text=Su%20Jiayu&fontSize=40&fontColor=111111&desc=Undergraduate%20·%20Intelligent%20Interaction%20Design%20@%20BUPT&descAlignY=68&descSize=14" alt="header" />
+</p>
 
-🔭 I'm Sujiayu, an undergraduate student from @BUPT majoring in Intelligent Interaction Design.
+<p align="center">
+  <sub>
+    Beijing / Quanzhou · Blog · Research · Code
+  </sub>
+</p>
 
-📒 I'm writing some blogs in my [blog](https://jiayusu.github.io/). The blogs are some of my ideas and notes when learning and coding.
+<p align="center">
+  <a href="https://jiayusu.github.io/">Website</a> ·
+  <a href="mailto:bbbbbbbb@bupt.edu.cn">Email</a> ·
+  <a href="https://github.com/jiayusu">GitHub</a>
+</p>
 
-📫 How to reach me: bbbbbbbb@bupt.edu.cn
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiayusu&theme=github" alt="Activity Graph" />
-</div>
+## About
+
+I’m **Su Jiayu**, an undergraduate student at **BUPT**, majoring in **Intelligent Interaction Design**.
+
+My interests lie in the space between **design, coding, AI systems, and human interaction**.  
+I use this page as a small archive of what I am building, thinking about, and learning.
+
+---
+
+## Selected Work
+
+### 01 · Mario World Model
+A multi-level Mario control project based on **DreamerV3**, combining world models, level-conditioned policy learning, and lightweight MCTS distillation.
+
+### 02 · Go AI
+A 19x19 Go project with **Pygame GUI + ONNX + MiniMCTS**, exploring self-play, evaluation, and lightweight inference.
+
+### 03 · RAG Agent Platform
+A private knowledge QA platform that includes document chunking, embedding, reranking, logging, tracing, and fallback strategies.
+
+### 04 · Elderly Concierge System
+A service-design-oriented AI concierge concept for elderly-care scenarios, focusing on voice interaction, business workflows, and accessible UI.
+
+---
+
+## Writing
+
+I write notes, ideas, and learning logs on my blog:
+
+- [Visit my blog](https://jiayusu.github.io/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Current Focus
+
+- AI Infra / distributed inference systems
+- world models and reinforcement learning
+- service design for real-world human interaction
+- building things that are both technical and thoughtful
+
+---
+
+## Contact
+
+If you’d like to talk about research, projects, or collaboration:
+
+**Email**: bbbbbbbb@bupt.edu.cn
+
+---
+
+<p align="center">
+  <sub>
+    “Design, code, and thought — all meeting in practice.”
+  </sub>
+</p>
