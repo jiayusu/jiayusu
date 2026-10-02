@@ -48,11 +48,11 @@ I write notes, ideas, and learning logs on my blog:
 - [Visit my blog](https://jiayusu.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
+- [2026-10-01 New](https://jiayusu.github.io/2026/10/01/New.html)
 - [2026-09-30 DSH](https://jiayusu.github.io/2026/09/30/DSH.html)
 - [2026-1-28 日记](https://jiayusu.github.io/2026/01/28/%E6%97%A5%E8%AE%B0.html)
 - [ToolBox](https://jiayusu.github.io/blog/2025/12/15/toolbox.html)
 - [事事非如意——读田渊栋五年总结](https://jiayusu.github.io/blog/2025/12/07/%E8%AF%BB%E7%94%B0%E6%B8%8A%E6%A0%8B%E4%BA%94%E5%B9%B4%E6%80%BB%E7%BB%93.html)
-- [VS Code 问题及解决方法](https://jiayusu.github.io/tech/2025/12/01/unnamed-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
