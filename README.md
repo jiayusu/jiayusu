@@ -48,11 +48,11 @@ I write notes, ideas, and learning logs on my blog:
 - [Visit my blog](https://jiayusu.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
+- [2026-10-06 G](https://jiayusu.github.io/2026/10/06/G.html)
 - [2026-10-05-X](https://jiayusu.github.io/2026/10/05/X.html)
 - [2026-10-03 M](https://jiayusu.github.io/2026/10/03/M.html)
 - [2026-10-02 F](https://jiayusu.github.io/2026/10/02/F.html)
 - [2026-10-01 New](https://jiayusu.github.io/2026/10/01/New.html)
-- [2026-09-30 DSH](https://jiayusu.github.io/2026/09/30/DSH.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
